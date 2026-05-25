@@ -1,5 +1,5 @@
-name: help_instruction_app
-description: A Flutter Help Instruction Application.
+name: notes_app
+description: A creative Notes App with Provider state management.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.1
+  intl: ^0.19.0
 
 dev_dependencies:
   flutter_test:
